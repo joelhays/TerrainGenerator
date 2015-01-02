@@ -17,3 +17,6 @@ Terrain is generated as a hexagonal grid by sampling a height map and a noise ma
 - Change smoothing and normal calculations to be based on adjacent vertices, rather than adjacent height map samples
 
 #### Screenshots ####
+![terraingenerator_default](https://cloud.githubusercontent.com/assets/8391408/5597428/57d720e2-925f-11e4-9c1e-5fa5fbab5432.jpg)
+![terraingenerator_wire](https://cloud.githubusercontent.com/assets/8391408/5597429/57d8feda-925f-11e4-8c94-7993e28cc553.jpg)
+![terraingenerator_texture](https://cloud.githubusercontent.com/assets/8391408/5597430/57dc3ee2-925f-11e4-817f-74c4aa4a45ce.jpg)
