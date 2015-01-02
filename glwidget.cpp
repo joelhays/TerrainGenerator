@@ -11,7 +11,7 @@ GLWidget::GLWidget(QWidget *parent) :
     // set up timer to automatically call updateGL, which controls when the widget is repainted
     // 16ms = ~62fps
     connect(&timer, SIGNAL(timeout()), this, SLOT(updateGL()));
-    timer.start(16);
+    timer.start(16 * 2);
 }
 
 GLWidget::~GLWidget()
