@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="heightmap.png">images/heightmap.png</file>
+        <file alias="checker.jpg">images/checker.jpg</file>
+        <file alias="uniformclouds.jpg">images/uniformclouds.jpg</file>
+        <file alias="terrain.jpg">images/terrain.jpg</file>
+        <file alias="heightmap2.jpg">images/heightmap2.jpg</file>
+    </qresource>
+</RCC>
